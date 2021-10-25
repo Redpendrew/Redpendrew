@@ -1,6 +1,6 @@
 ## Heyo, I'm Red :D
 
-I’m interested in **Python**, **web**, and **operating system development**.
+I’m interested in a few different things, and I'm trying to learn some stuff too (example: Rust).
 
 **Well-known languages:** Python, HTML, CSS, Minecraft commands
 
