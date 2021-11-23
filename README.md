@@ -7,8 +7,7 @@ I’m interested in a few different things, and I'm trying to learn some stuff t
 - HTML
 - CSS
 - JavaScript
-- Minecraft commands
 
 ### Currently learning:
 - Rust
-- Node.js
+- Lua
