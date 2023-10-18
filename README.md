@@ -6,4 +6,4 @@ style="length: 200px; height: 200px;" />
 
 Right now, I just program for school and for hobby projects.
 
-Maintainter for N11, however mostly inactive.
+Former Maintainer for N11, working for local VRC team.
